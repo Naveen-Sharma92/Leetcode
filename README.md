@@ -45,5 +45,6 @@ For my leetcode questions
 ## String
 |  |
 | ------- |
+| [0551-student-attendance-record-i](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0551-student-attendance-record-i) |
 | [1797-goal-parser-interpretation](https://github.com/Naveen-Sharma92/Leetcode/tree/master/1797-goal-parser-interpretation) |
 <!---LeetCode Topics End-->
