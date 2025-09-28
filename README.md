@@ -11,6 +11,7 @@ For my leetcode questions
 | [0283-move-zeroes](https://github.com/Looplover11/Leetcode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Looplover11/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/Looplover11/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [1018-largest-perimeter-triangle](https://github.com/Naveen-Sharma92/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 ## Two Pointers
 |  |
 | ------- |
@@ -24,6 +25,7 @@ For my leetcode questions
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Looplover11/Leetcode/tree/master/0268-missing-number) |
+| [1018-largest-perimeter-triangle](https://github.com/Naveen-Sharma92/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Naveen-Sharma92/Leetcode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 ## Binary Search
 |  |
@@ -38,6 +40,7 @@ For my leetcode questions
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Looplover11/Leetcode/tree/master/0268-missing-number) |
+| [1018-largest-perimeter-triangle](https://github.com/Naveen-Sharma92/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -47,4 +50,8 @@ For my leetcode questions
 | ------- |
 | [0551-student-attendance-record-i](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0551-student-attendance-record-i) |
 | [1797-goal-parser-interpretation](https://github.com/Naveen-Sharma92/Leetcode/tree/master/1797-goal-parser-interpretation) |
+## Greedy
+|  |
+| ------- |
+| [1018-largest-perimeter-triangle](https://github.com/Naveen-Sharma92/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 <!---LeetCode Topics End-->
