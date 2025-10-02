@@ -32,6 +32,7 @@ For my leetcode questions
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Naveen-Sharma92/Leetcode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1642-water-bottles](https://github.com/Naveen-Sharma92/Leetcode/tree/master/1642-water-bottles) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Naveen-Sharma92/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
+| [3336-water-bottles-ii](https://github.com/Naveen-Sharma92/Leetcode/tree/master/3336-water-bottles-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -74,6 +75,7 @@ For my leetcode questions
 | ------- |
 | [1642-water-bottles](https://github.com/Naveen-Sharma92/Leetcode/tree/master/1642-water-bottles) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Naveen-Sharma92/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
+| [3336-water-bottles-ii](https://github.com/Naveen-Sharma92/Leetcode/tree/master/3336-water-bottles-ii) |
 ## Combinatorics
 |  |
 | ------- |
