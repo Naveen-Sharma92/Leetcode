@@ -22,6 +22,7 @@ For my leetcode questions
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Looplover11/Leetcode/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/Looplover11/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 ## Math
@@ -47,6 +48,7 @@ For my leetcode questions
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Looplover11/Leetcode/tree/master/0268-missing-number) |
 | [1018-largest-perimeter-triangle](https://github.com/Naveen-Sharma92/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 ## Prefix Sum
@@ -56,6 +58,7 @@ For my leetcode questions
 ## String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0242-valid-anagram) |
 | [0551-student-attendance-record-i](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0551-student-attendance-record-i) |
 | [1797-goal-parser-interpretation](https://github.com/Naveen-Sharma92/Leetcode/tree/master/1797-goal-parser-interpretation) |
 ## Greedy
