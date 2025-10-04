@@ -6,6 +6,7 @@ For my leetcode questions
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0011-container-with-most-water) |
 | [0136-single-number](https://github.com/Looplover11/Leetcode/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Looplover11/Leetcode/tree/master/0268-missing-number) |
@@ -17,6 +18,7 @@ For my leetcode questions
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0011-container-with-most-water) |
 | [0283-move-zeroes](https://github.com/Looplover11/Leetcode/tree/master/0283-move-zeroes) |
 ## Hash Table
 |  |
@@ -66,6 +68,7 @@ For my leetcode questions
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0011-container-with-most-water) |
 | [1018-largest-perimeter-triangle](https://github.com/Naveen-Sharma92/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 ## Brainteaser
 |  |
