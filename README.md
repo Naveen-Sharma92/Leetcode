@@ -69,6 +69,7 @@ For my leetcode questions
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0020-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0290-word-pattern) |
 | [0551-student-attendance-record-i](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0551-student-attendance-record-i) |
@@ -102,4 +103,8 @@ For my leetcode questions
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0036-valid-sudoku) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
