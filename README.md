@@ -9,6 +9,7 @@ For my leetcode questions
 | [0001-two-sum](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0011-container-with-most-water) |
 | [0036-valid-sudoku](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0036-valid-sudoku) |
+| [0075-sort-colors](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/Looplover11/Leetcode/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Looplover11/Leetcode/tree/master/0268-missing-number) |
@@ -23,6 +24,7 @@ For my leetcode questions
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0011-container-with-most-water) |
+| [0075-sort-colors](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/Looplover11/Leetcode/tree/master/0283-move-zeroes) |
 ## Hash Table
 |  |
@@ -59,6 +61,7 @@ For my leetcode questions
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Looplover11/Leetcode/tree/master/0268-missing-number) |
