@@ -2,9 +2,9 @@ class Solution {
 public:
     void sortColors(vector<int>& nums) {
         //dutch nationla flag algorithm
-        int low=0,mid =0;
-        int high = nums.size()-1;
-        for(int i=0;i<nums.size();i++){
+        int low=0,mid =0,n=nums.size(),i=0;
+        int high = n-1;
+        while(i<n){
             if(nums[i]==0){
                 low++;
                 mid++;
@@ -13,8 +13,9 @@ public:
                 mid++;
             else
                 high--;
+            i++;
         }
-        for(int i=0;i<nums.size();i++){
+        for(int i=0;i<n;i++){
             if(i<low)
             nums[i]=0;
             else if(i<mid)
