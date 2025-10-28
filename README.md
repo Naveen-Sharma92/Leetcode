@@ -123,4 +123,8 @@ For my leetcode questions
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0169-majority-element) |
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/Naveen-Sharma92/Leetcode/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
