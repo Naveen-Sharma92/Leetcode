@@ -1,17 +1,34 @@
+// class Solution {
+// public:
+//     vector<int> plusOne(vector<int>& digits) {
+//         for(int i=digits.size()-1;i>=0;i--){
+//             if(digits[i]!=9){
+//                 digits[i]++;
+//                 for(int j=digits.size()-1;j>i;j--){
+//                     digits[j]=0;
+//                 }
+//                 return digits;
+//             }
+//         }
+//         for(int i=0;i<digits.size();i++){
+//             digits[i]=0;
+//         }
+//         digits.insert(digits.begin(),1);
+//         return digits;
+//     }
+// };
 class Solution {
 public:
     vector<int> plusOne(vector<int>& digits) {
         for(int i=digits.size()-1;i>=0;i--){
             if(digits[i]!=9){
                 digits[i]++;
-                for(int j=digits.size()-1;j>i;j--){
-                    digits[j]=0;
-                }
                 return digits;
+                
             }
-        }
-        for(int i=0;i<digits.size();i++){
-            digits[i]=0;
+            else{
+                digits[i]=0;
+            }
         }
         digits.insert(digits.begin(),1);
         return digits;
