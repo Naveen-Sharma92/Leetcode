@@ -8,6 +8,7 @@ For my leetcode questions
 | ------- |
 | [0001-two-sum](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0011-container-with-most-water) |
+| [0035-search-insert-position](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0036-valid-sudoku) |
 | [0066-plus-one](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0075-sort-colors) |
@@ -59,6 +60,7 @@ For my leetcode questions
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/Looplover11/Leetcode/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0704-binary-search) |
 ## Bit Manipulation
