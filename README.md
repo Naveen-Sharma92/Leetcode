@@ -26,6 +26,7 @@ For my leetcode questions
 | [0560-subarray-sum-equals-k](https://github.com/Looplover11/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0704-binary-search) |
 | [0797-rabbits-in-forest](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0797-rabbits-in-forest) |
+| [0875-koko-eating-bananas](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0944-delete-columns-to-make-sorted) |
 | [1018-largest-perimeter-triangle](https://github.com/Naveen-Sharma92/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Naveen-Sharma92/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -74,6 +75,7 @@ For my leetcode questions
 | [0268-missing-number](https://github.com/Looplover11/Leetcode/tree/master/0268-missing-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0875-koko-eating-bananas) |
 ## Bit Manipulation
 |  |
 | ------- |
