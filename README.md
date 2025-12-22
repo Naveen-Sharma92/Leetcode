@@ -30,6 +30,7 @@ For my leetcode questions
 | [0944-delete-columns-to-make-sorted](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0944-delete-columns-to-make-sorted) |
 | [1018-largest-perimeter-triangle](https://github.com/Naveen-Sharma92/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Naveen-Sharma92/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Naveen-Sharma92/Leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Naveen-Sharma92/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Naveen-Sharma92/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Two Pointers
@@ -76,6 +77,7 @@ For my leetcode questions
 | [0540-single-element-in-a-sorted-array](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0875-koko-eating-bananas) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Naveen-Sharma92/Leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 ## Bit Manipulation
 |  |
 | ------- |
