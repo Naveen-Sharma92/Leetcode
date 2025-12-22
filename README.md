@@ -28,6 +28,7 @@ For my leetcode questions
 | [0797-rabbits-in-forest](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0797-rabbits-in-forest) |
 | [0875-koko-eating-bananas](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0944-delete-columns-to-make-sorted) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/Naveen-Sharma92/Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1018-largest-perimeter-triangle](https://github.com/Naveen-Sharma92/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Naveen-Sharma92/Leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Naveen-Sharma92/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -78,6 +79,7 @@ For my leetcode questions
 | [0540-single-element-in-a-sorted-array](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0875-koko-eating-bananas) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/Naveen-Sharma92/Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Naveen-Sharma92/Leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Naveen-Sharma92/Leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 ## Bit Manipulation
