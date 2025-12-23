@@ -4,7 +4,8 @@ public:
         if(bloomDay.size() < (1LL*m*k))
             return -1;
         int n=bloomDay.size();
-        int low=1,high=*max_element(bloomDay.begin(),bloomDay.end());
+        int low=*min_element(bloomDay.begin(), bloomDay.end());
+        int high=*max_element(bloomDay.begin(),bloomDay.end());
         while(low<=high){
             int mid=low+(high-low)/2,b=0,c=0;
             for(int i=0;i<n;i++){
