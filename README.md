@@ -164,4 +164,8 @@ For my leetcode questions
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/Naveen-Sharma92/Leetcode/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1827-invalid-tweets](https://github.com/Naveen-Sharma92/Leetcode/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/Naveen-Sharma92/Leetcode/tree/master/1908-recyclable-and-low-fat-products) |
+## Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
