@@ -42,6 +42,7 @@ For my leetcode questions
 | [0011-container-with-most-water](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0011-container-with-most-water) |
 | [0075-sort-colors](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/Looplover11/Leetcode/tree/master/0283-move-zeroes) |
+| [0876-middle-of-the-linked-list](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 ## Hash Table
 |  |
 | ------- |
@@ -168,4 +169,5 @@ For my leetcode questions
 |  |
 | ------- |
 | [0237-delete-node-in-a-linked-list](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
