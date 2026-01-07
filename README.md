@@ -62,6 +62,7 @@ For my leetcode questions
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0002-add-two-numbers) |
 | [0066-plus-one](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/Looplover11/Leetcode/tree/master/0268-missing-number) |
 | [0797-rabbits-in-forest](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0797-rabbits-in-forest) |
@@ -170,6 +171,7 @@ For my leetcode questions
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0002-add-two-numbers) |
 | [0141-linked-list-cycle](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
@@ -177,5 +179,6 @@ For my leetcode questions
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
