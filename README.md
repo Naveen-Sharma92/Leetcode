@@ -32,6 +32,7 @@ For my leetcode questions
 | [1018-largest-perimeter-triangle](https://github.com/Naveen-Sharma92/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Naveen-Sharma92/Leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Naveen-Sharma92/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Naveen-Sharma92/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Naveen-Sharma92/Leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/Naveen-Sharma92/Leetcode/tree/master/1539-kth-missing-positive-number) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Naveen-Sharma92/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
@@ -115,6 +116,7 @@ For my leetcode questions
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Looplover11/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Naveen-Sharma92/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## String
 |  |
 | ------- |
@@ -197,4 +199,8 @@ For my leetcode questions
 | [0025-reverse-nodes-in-k-group](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0234-palindrome-linked-list) |
+## Sliding Window
+|  |
+| ------- |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Naveen-Sharma92/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 <!---LeetCode Topics End-->
