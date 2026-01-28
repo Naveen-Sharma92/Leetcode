@@ -64,6 +64,7 @@ For my leetcode questions
 | [0001-two-sum](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0036-valid-sudoku](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0036-valid-sudoku) |
+| [0076-minimum-window-substring](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0141-linked-list-cycle](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
@@ -142,6 +143,7 @@ For my leetcode questions
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0020-valid-parentheses) |
+| [0076-minimum-window-substring](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0242-valid-anagram](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0290-word-pattern) |
 | [0424-longest-repeating-character-replacement](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
@@ -228,6 +230,7 @@ For my leetcode questions
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
