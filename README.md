@@ -11,6 +11,7 @@ For my leetcode questions
 | [0033-search-in-rotated-sorted-array](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0036-valid-sudoku) |
+| [0045-jump-game-ii](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0075-sort-colors) |
@@ -155,6 +156,7 @@ For my leetcode questions
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0455-assign-cookies) |
 | [0797-rabbits-in-forest](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0797-rabbits-in-forest) |
@@ -241,5 +243,6 @@ For my leetcode questions
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
