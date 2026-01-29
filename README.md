@@ -12,6 +12,7 @@ For my leetcode questions
 | [0035-search-insert-position](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0036-valid-sudoku) |
 | [0045-jump-game-ii](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0045-jump-game-ii) |
+| [0054-spiral-matrix](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0075-sort-colors) |
@@ -172,6 +173,7 @@ For my leetcode questions
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0054-spiral-matrix) |
 | [1642-water-bottles](https://github.com/Naveen-Sharma92/Leetcode/tree/master/1642-water-bottles) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Naveen-Sharma92/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3336-water-bottles-ii](https://github.com/Naveen-Sharma92/Leetcode/tree/master/3336-water-bottles-ii) |
@@ -183,6 +185,7 @@ For my leetcode questions
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0036-valid-sudoku) |
+| [0054-spiral-matrix](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0054-spiral-matrix) |
 ## Stack
 |  |
 | ------- |
