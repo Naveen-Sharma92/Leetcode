@@ -15,6 +15,7 @@ For my leetcode questions
 | [0048-rotate-image](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0075-sort-colors) |
@@ -129,6 +130,7 @@ For my leetcode questions
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0217-contains-duplicate) |
