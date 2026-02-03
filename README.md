@@ -20,6 +20,7 @@ For my leetcode questions
 | [0066-plus-one](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0135-candy](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/Looplover11/Leetcode/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0162-find-peak-element) |
@@ -167,6 +168,7 @@ For my leetcode questions
 | [0011-container-with-most-water](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0055-jump-game) |
+| [0135-candy](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0135-candy) |
 | [0435-non-overlapping-intervals](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0455-assign-cookies) |
 | [0797-rabbits-in-forest](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0797-rabbits-in-forest) |
