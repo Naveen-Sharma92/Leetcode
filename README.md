@@ -25,6 +25,7 @@ For my leetcode questions
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0169-majority-element) |
+| [0204-count-primes](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Looplover11/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Looplover11/Leetcode/tree/master/0283-move-zeroes) |
@@ -96,6 +97,7 @@ For my leetcode questions
 | [0048-rotate-image](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0066-plus-one) |
+| [0204-count-primes](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/Looplover11/Leetcode/tree/master/0268-missing-number) |
 | [0797-rabbits-in-forest](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0797-rabbits-in-forest) |
 | [1018-largest-perimeter-triangle](https://github.com/Naveen-Sharma92/Leetcode/tree/master/1018-largest-perimeter-triangle) |
@@ -180,6 +182,7 @@ For my leetcode questions
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0204-count-primes) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/Naveen-Sharma92/Leetcode/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 ## Simulation
 |  |
@@ -262,4 +265,8 @@ For my leetcode questions
 | [0045-jump-game-ii](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0055-jump-game) |
 | [0435-non-overlapping-intervals](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0435-non-overlapping-intervals) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
