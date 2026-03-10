@@ -9,23 +9,43 @@
  *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
  * };
  */
+
+ //my first
+// class Solution {
+// public:
+//     pair<int,int> maxDepth(TreeNode* root,int maxi) {
+//         if(root==NULL)
+//             return {0,0};
+//         auto it1=maxDepth(root->left,maxi);
+//         int maxi1= it1.second;
+//         auto it2=maxDepth(root->right,maxi);
+//         int maxi2= it2.second;
+//         maxi=max(maxi1,maxi2);
+//         int lh= it1.first;
+//         int rh= it2.first;
+//         maxi=max(maxi,lh+rh);
+//         return {1+max(lh,rh),maxi};
+//     }
+//     int diameterOfBinaryTree(TreeNode* root) {
+//         auto it=maxDepth(root,0);
+//         return it.second;
+//     }
+// };
+
+
 class Solution {
 public:
-    pair<int,int> maxDepth(TreeNode* root,int maxi) {
+    int maxDepth(TreeNode* root,int& maxi) { //using pass by reference
         if(root==NULL)
-            return {0,0};
-        auto it1=maxDepth(root->left,maxi);
-        int maxi1= it1.second;
-        auto it2=maxDepth(root->right,maxi);
-        int maxi2= it2.second;
-        maxi=max(maxi1,maxi2);
-        int lh= it1.first;
-        int rh= it2.first;
+            return 0;
+        int lh= maxDepth(root->left,maxi);
+        int rh= maxDepth(root->right,maxi);
         maxi=max(maxi,lh+rh);
-        return {1+max(lh,rh),maxi};
+        return 1+max(lh,rh);
     }
     int diameterOfBinaryTree(TreeNode* root) {
-        auto it=maxDepth(root,0);
-        return it.second;
+        int maxi=0;
+        int a=maxDepth(root,maxi);
+        return maxi;
     }
 };
