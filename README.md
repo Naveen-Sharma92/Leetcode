@@ -26,6 +26,7 @@ For my leetcode questions
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0169-majority-element) |
+| [0200-number-of-islands](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Looplover11/Leetcode/tree/master/0268-missing-number) |
@@ -204,6 +205,7 @@ For my leetcode questions
 | [0036-valid-sudoku](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0054-spiral-matrix) |
+| [0200-number-of-islands](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0200-number-of-islands) |
 ## Stack
 |  |
 | ------- |
@@ -297,6 +299,7 @@ For my leetcode questions
 | [0124-binary-tree-maximum-path-sum](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0200-number-of-islands](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0200-number-of-islands) |
 | [0543-diameter-of-binary-tree](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0547-number-of-provinces) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -318,11 +321,13 @@ For my leetcode questions
 | [0102-binary-tree-level-order-traversal](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0200-number-of-islands](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0547-number-of-provinces) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0547-number-of-provinces) |
 ## Graph Theory
 |  |
