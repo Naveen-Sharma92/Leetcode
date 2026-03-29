@@ -18,7 +18,7 @@ public:
             for(int k=0;k<4;k++){
                 int ur=r+dr[k];
                 int uc=c+dc[k];
-                if(ur>=0 && ur<m && uc>=0 && ur<n && image[ur][uc]==org && visited[ur][uc]==0){
+                if(ur>=0 && ur<m && uc>=0 && uc<n && image[ur][uc]==org && visited[ur][uc]==0){
                     visited[ur][uc]=1;
                     q.push({ur,uc});
                 }
