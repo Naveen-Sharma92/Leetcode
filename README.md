@@ -44,6 +44,7 @@ For my leetcode questions
 | [0930-binary-subarrays-with-sum](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0944-delete-columns-to-make-sorted) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
+| [0994-rotting-oranges](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/Naveen-Sharma92/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Naveen-Sharma92/Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1018-largest-perimeter-triangle](https://github.com/Naveen-Sharma92/Leetcode/tree/master/1018-largest-perimeter-triangle) |
@@ -208,6 +209,7 @@ For my leetcode questions
 | [0054-spiral-matrix](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0054-spiral-matrix) |
 | [0200-number-of-islands](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0994-rotting-oranges) |
 ## Stack
 |  |
 | ------- |
@@ -328,6 +330,7 @@ For my leetcode questions
 | [0547-number-of-provinces](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0733-flood-fill) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [0994-rotting-oranges](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0994-rotting-oranges) |
 ## Union-Find
 |  |
 | ------- |
