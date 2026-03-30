@@ -55,6 +55,7 @@ For my leetcode questions
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Naveen-Sharma92/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Naveen-Sharma92/Leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/Naveen-Sharma92/Leetcode/tree/master/1539-kth-missing-positive-number) |
+| [1765-map-of-highest-peak](https://github.com/Naveen-Sharma92/Leetcode/tree/master/1765-map-of-highest-peak) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Naveen-Sharma92/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Naveen-Sharma92/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Two Pointers
@@ -212,6 +213,7 @@ For my leetcode questions
 | [0542-01-matrix](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0994-rotting-oranges) |
+| [1765-map-of-highest-peak](https://github.com/Naveen-Sharma92/Leetcode/tree/master/1765-map-of-highest-peak) |
 ## Stack
 |  |
 | ------- |
@@ -335,6 +337,7 @@ For my leetcode questions
 | [0733-flood-fill](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0733-flood-fill) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0994-rotting-oranges) |
+| [1765-map-of-highest-peak](https://github.com/Naveen-Sharma92/Leetcode/tree/master/1765-map-of-highest-peak) |
 ## Union-Find
 |  |
 | ------- |
