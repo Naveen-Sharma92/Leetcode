@@ -50,6 +50,7 @@ For my leetcode questions
 | [1004-max-consecutive-ones-iii](https://github.com/Naveen-Sharma92/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Naveen-Sharma92/Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1018-largest-perimeter-triangle](https://github.com/Naveen-Sharma92/Leetcode/tree/master/1018-largest-perimeter-triangle) |
+| [1020-number-of-enclaves](https://github.com/Naveen-Sharma92/Leetcode/tree/master/1020-number-of-enclaves) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Naveen-Sharma92/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Naveen-Sharma92/Leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Naveen-Sharma92/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -215,6 +216,7 @@ For my leetcode questions
 | [0542-01-matrix](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/Naveen-Sharma92/Leetcode/tree/master/1020-number-of-enclaves) |
 | [1765-map-of-highest-peak](https://github.com/Naveen-Sharma92/Leetcode/tree/master/1765-map-of-highest-peak) |
 ## Stack
 |  |
@@ -316,6 +318,7 @@ For my leetcode questions
 | [0547-number-of-provinces](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0733-flood-fill) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1020-number-of-enclaves](https://github.com/Naveen-Sharma92/Leetcode/tree/master/1020-number-of-enclaves) |
 ## Binary Tree
 |  |
 | ------- |
@@ -341,6 +344,7 @@ For my leetcode questions
 | [0733-flood-fill](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0733-flood-fill) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/Naveen-Sharma92/Leetcode/tree/master/1020-number-of-enclaves) |
 | [1765-map-of-highest-peak](https://github.com/Naveen-Sharma92/Leetcode/tree/master/1765-map-of-highest-peak) |
 ## Union-Find
 |  |
@@ -348,6 +352,7 @@ For my leetcode questions
 | [0130-surrounded-regions](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0547-number-of-provinces) |
+| [1020-number-of-enclaves](https://github.com/Naveen-Sharma92/Leetcode/tree/master/1020-number-of-enclaves) |
 ## Graph Theory
 |  |
 | ------- |
