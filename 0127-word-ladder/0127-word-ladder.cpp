@@ -67,7 +67,8 @@ public:
     int ladderLength(string beginWord, string endWord, vector<string>& wordList) {
         set<string>se(wordList.begin(),wordList.end());
         int n= beginWord.size();
-
+        if(!(se.find(endWord) != se.end()))
+            return 0;
         queue<pair<string,int>>q;
         q.push({beginWord,1});
         se.erase(beginWord);
@@ -77,9 +78,11 @@ public:
             q.pop();
             for(int i=0;i<n;i++){
                 for(char w='a';w<='z';w++){
+                    if(w == a[i]) // SAME WORD A IS FORMING THEN
+                        continue;
                     string s=a;
                     s[i]=w;
-                    if(s==endWord && se.find(s) != se.end())   // EVEN IF S IS NOT IN SE WE DO IT SO FIRST NEED TO CHECK WHETHER S IS IN DICTIONARY OR NOT
+                    if(s==endWord)   // EVEN IF S IS NOT IN SE WE DO IT SO FIRST NEED TO CHECK WHETHER S IS IN DICTIONARY OR NOT but handle in line70
                         return d+1;
                     else if(se.find(s) != se.end()){
                         q.push({s,d+1});
