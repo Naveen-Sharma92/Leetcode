@@ -41,6 +41,7 @@ For my leetcode questions
 | [0704-binary-search](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0733-flood-fill) |
 | [0797-rabbits-in-forest](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0797-rabbits-in-forest) |
+| [0860-lemonade-change](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
@@ -186,6 +187,7 @@ For my leetcode questions
 | [0435-non-overlapping-intervals](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0455-assign-cookies) |
 | [0797-rabbits-in-forest](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0797-rabbits-in-forest) |
+| [0860-lemonade-change](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0860-lemonade-change) |
 | [1018-largest-perimeter-triangle](https://github.com/Naveen-Sharma92/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 ## Brainteaser
 |  |
