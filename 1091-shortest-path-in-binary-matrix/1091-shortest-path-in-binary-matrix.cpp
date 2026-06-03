@@ -16,6 +16,10 @@ public:
             int r= q.front().second.first;
             int c= q.front().second.second;
             q.pop();
+
+            if (r == n-1 && c == n-1) 
+                return d + 1;  // early exit as binary weights and bfs do level by level so you reah first is optimal
+
             if(d>dist[r][c])
                 continue;
             for(int dr=-1;dr<=1;dr++){
