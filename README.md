@@ -59,6 +59,7 @@ For my leetcode questions
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Naveen-Sharma92/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Naveen-Sharma92/Leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/Naveen-Sharma92/Leetcode/tree/master/1539-kth-missing-positive-number) |
+| [1631-path-with-minimum-effort](https://github.com/Naveen-Sharma92/Leetcode/tree/master/1631-path-with-minimum-effort) |
 | [1765-map-of-highest-peak](https://github.com/Naveen-Sharma92/Leetcode/tree/master/1765-map-of-highest-peak) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Naveen-Sharma92/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Naveen-Sharma92/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -136,6 +137,7 @@ For my leetcode questions
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Naveen-Sharma92/Leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Naveen-Sharma92/Leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/Naveen-Sharma92/Leetcode/tree/master/1539-kth-missing-positive-number) |
+| [1631-path-with-minimum-effort](https://github.com/Naveen-Sharma92/Leetcode/tree/master/1631-path-with-minimum-effort) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -223,6 +225,7 @@ For my leetcode questions
 | [0994-rotting-oranges](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Naveen-Sharma92/Leetcode/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Naveen-Sharma92/Leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1631-path-with-minimum-effort](https://github.com/Naveen-Sharma92/Leetcode/tree/master/1631-path-with-minimum-effort) |
 | [1765-map-of-highest-peak](https://github.com/Naveen-Sharma92/Leetcode/tree/master/1765-map-of-highest-peak) |
 ## Stack
 |  |
@@ -327,6 +330,7 @@ For my leetcode questions
 | [0785-is-graph-bipartite](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0785-is-graph-bipartite) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1020-number-of-enclaves](https://github.com/Naveen-Sharma92/Leetcode/tree/master/1020-number-of-enclaves) |
+| [1631-path-with-minimum-effort](https://github.com/Naveen-Sharma92/Leetcode/tree/master/1631-path-with-minimum-effort) |
 ## Binary Tree
 |  |
 | ------- |
@@ -357,6 +361,7 @@ For my leetcode questions
 | [0994-rotting-oranges](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Naveen-Sharma92/Leetcode/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Naveen-Sharma92/Leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1631-path-with-minimum-effort](https://github.com/Naveen-Sharma92/Leetcode/tree/master/1631-path-with-minimum-effort) |
 | [1765-map-of-highest-peak](https://github.com/Naveen-Sharma92/Leetcode/tree/master/1765-map-of-highest-peak) |
 ## Union-Find
 |  |
@@ -366,6 +371,7 @@ For my leetcode questions
 | [0547-number-of-provinces](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/Naveen-Sharma92/Leetcode/tree/master/1020-number-of-enclaves) |
+| [1631-path-with-minimum-effort](https://github.com/Naveen-Sharma92/Leetcode/tree/master/1631-path-with-minimum-effort) |
 ## Graph Theory
 |  |
 | ------- |
@@ -376,4 +382,8 @@ For my leetcode questions
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0207-course-schedule) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1631-path-with-minimum-effort](https://github.com/Naveen-Sharma92/Leetcode/tree/master/1631-path-with-minimum-effort) |
 <!---LeetCode Topics End-->
