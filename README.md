@@ -297,6 +297,7 @@ For my leetcode questions
 | [0124-binary-tree-maximum-path-sum](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0542-01-matrix](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0542-01-matrix) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Number Theory
 |  |
 | ------- |
@@ -328,6 +329,7 @@ For my leetcode questions
 | [0547-number-of-provinces](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1020-number-of-enclaves](https://github.com/Naveen-Sharma92/Leetcode/tree/master/1020-number-of-enclaves) |
 | [1631-path-with-minimum-effort](https://github.com/Naveen-Sharma92/Leetcode/tree/master/1631-path-with-minimum-effort) |
@@ -357,6 +359,7 @@ For my leetcode questions
 | [0547-number-of-provinces](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Naveen-Sharma92/Leetcode/tree/master/1020-number-of-enclaves) |
@@ -378,6 +381,7 @@ For my leetcode questions
 | [0207-course-schedule](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Topological Sort
 |  |
 | ------- |
@@ -385,5 +389,10 @@ For my leetcode questions
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1631-path-with-minimum-effort](https://github.com/Naveen-Sharma92/Leetcode/tree/master/1631-path-with-minimum-effort) |
+## Shortest Path
+|  |
+| ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 <!---LeetCode Topics End-->
