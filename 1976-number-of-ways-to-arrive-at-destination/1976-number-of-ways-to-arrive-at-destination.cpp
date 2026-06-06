@@ -25,7 +25,7 @@ public:
             for(auto it:adj[node]){
                 if(dis[it.first]==d+it.second)
                     ways[it.first] = (ways[node]+ways[it.first])% MOD;  //fraw the diagram in notebook see it works only 
-                if(dis[it.first]> d+it.second){
+                else if(dis[it.first]> d+it.second){
                     dis[it.first]= d+it.second;
                     ways[it.first]=ways[node];
                     pq.push({d+it.second, it.first});
