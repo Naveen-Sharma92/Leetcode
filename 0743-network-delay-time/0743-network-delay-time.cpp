@@ -12,8 +12,10 @@ public:
         while(!pq.empty()){
             int d= pq.top().first;
             int node= pq.top().second;
-            pq.pop();
 
+            pq.pop();
+            if(d > dis[node]) 
+                continue;
             for(auto it:adj[node]){
                 if(dis[it.first]> d+it.second){
                     dis[it.first]= d+it.second;
@@ -21,11 +23,13 @@ public:
                 }
             }
         }
-        dis[0]=-1;
-        auto it = max_element(dis.begin(), dis.end());
-        int max= *it;
-        if(max==1e9)
-            return -1;
-        return max;
+        int ans = 0;
+
+    for(int i = 1; i <= n; i++){
+        if(dis[i] == 1e9) return -1;
+        ans = max(ans, dis[i]);
+    }
+
+    return ans;
     }
 };
