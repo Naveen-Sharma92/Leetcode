@@ -328,6 +328,7 @@ For my leetcode questions
 | [0543-diameter-of-binary-tree](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -358,6 +359,7 @@ For my leetcode questions
 | [0542-01-matrix](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -380,6 +382,7 @@ For my leetcode questions
 | ------- |
 | [0207-course-schedule](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0547-number-of-provinces) |
+| [0743-network-delay-time](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Topological Sort
@@ -389,10 +392,12 @@ For my leetcode questions
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1631-path-with-minimum-effort](https://github.com/Naveen-Sharma92/Leetcode/tree/master/1631-path-with-minimum-effort) |
 ## Shortest Path
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 <!---LeetCode Topics End-->
