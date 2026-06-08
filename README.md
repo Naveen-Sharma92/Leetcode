@@ -62,6 +62,7 @@ For my leetcode questions
 | [1631-path-with-minimum-effort](https://github.com/Naveen-Sharma92/Leetcode/tree/master/1631-path-with-minimum-effort) |
 | [1765-map-of-highest-peak](https://github.com/Naveen-Sharma92/Leetcode/tree/master/1765-map-of-highest-peak) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Naveen-Sharma92/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
+| [3354-make-array-elements-equal-to-zero](https://github.com/Naveen-Sharma92/Leetcode/tree/master/3354-make-array-elements-equal-to-zero) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Naveen-Sharma92/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Two Pointers
 |  |
@@ -166,6 +167,7 @@ For my leetcode questions
 | [1004-max-consecutive-ones-iii](https://github.com/Naveen-Sharma92/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Naveen-Sharma92/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Naveen-Sharma92/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [3354-make-array-elements-equal-to-zero](https://github.com/Naveen-Sharma92/Leetcode/tree/master/3354-make-array-elements-equal-to-zero) |
 ## String
 |  |
 | ------- |
@@ -208,6 +210,7 @@ For my leetcode questions
 | [1642-water-bottles](https://github.com/Naveen-Sharma92/Leetcode/tree/master/1642-water-bottles) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Naveen-Sharma92/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3336-water-bottles-ii](https://github.com/Naveen-Sharma92/Leetcode/tree/master/3336-water-bottles-ii) |
+| [3354-make-array-elements-equal-to-zero](https://github.com/Naveen-Sharma92/Leetcode/tree/master/3354-make-array-elements-equal-to-zero) |
 ## Combinatorics
 |  |
 | ------- |
