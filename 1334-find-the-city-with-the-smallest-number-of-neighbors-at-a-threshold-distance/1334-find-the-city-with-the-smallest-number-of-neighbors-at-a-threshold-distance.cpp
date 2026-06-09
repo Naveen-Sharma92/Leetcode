@@ -25,7 +25,7 @@ public:
         for(int i=0;i<n;i++){  //city
         int c=0;
             for(int j=0;j<n;j++){
-                if(mat[i][j] <=distanceThreshold){
+                if(i != j && mat[i][j] <=distanceThreshold){
                     c++;
                 }
             }
