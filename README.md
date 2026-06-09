@@ -8,6 +8,7 @@ For my leetcode questions
 | ------- |
 | [0001-two-sum](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0036-valid-sudoku) |
@@ -68,6 +69,7 @@ For my leetcode questions
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0075-sort-colors](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0141-linked-list-cycle) |
@@ -148,6 +150,7 @@ For my leetcode questions
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0169-majority-element) |
