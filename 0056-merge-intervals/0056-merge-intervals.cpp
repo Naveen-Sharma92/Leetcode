@@ -18,7 +18,7 @@ public:
             else{
                 int start=intervals[i][0];
                 int end=intervals[i][1];
-                while(i<n-1 && end>=intervals[i+1][0] ){   // not do intervals[i][1] because it will compare consecutives not the biggest end we got
+                while(i<n-1 && end>=intervals[i+1][0] ){// not do intervals[i][1] because it will compare consecutives not the biggest end we got
                     end=max(intervals[i+1][1],end);
                     i++;
                 }
@@ -27,7 +27,7 @@ public:
             }
 
         }
-        if(i == n-1)
+        if(i == n-1)                      // first i was trying to check for last index which is wrong due to last i++ we can do this
             v.push_back(intervals[n-1]);
 
         return v;
