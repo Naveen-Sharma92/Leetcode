@@ -185,6 +185,7 @@ For my leetcode questions
 | [0944-delete-columns-to-make-sorted](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0944-delete-columns-to-make-sorted) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Naveen-Sharma92/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1797-goal-parser-interpretation](https://github.com/Naveen-Sharma92/Leetcode/tree/master/1797-goal-parser-interpretation) |
+| [3612-process-string-with-special-operations-i](https://github.com/Naveen-Sharma92/Leetcode/tree/master/3612-process-string-with-special-operations-i) |
 ## Greedy
 |  |
 | ------- |
@@ -214,6 +215,7 @@ For my leetcode questions
 | [2324-find-triangular-sum-of-an-array](https://github.com/Naveen-Sharma92/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3336-water-bottles-ii](https://github.com/Naveen-Sharma92/Leetcode/tree/master/3336-water-bottles-ii) |
 | [3354-make-array-elements-equal-to-zero](https://github.com/Naveen-Sharma92/Leetcode/tree/master/3354-make-array-elements-equal-to-zero) |
+| [3612-process-string-with-special-operations-i](https://github.com/Naveen-Sharma92/Leetcode/tree/master/3612-process-string-with-special-operations-i) |
 ## Combinatorics
 |  |
 | ------- |
