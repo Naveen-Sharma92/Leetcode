@@ -65,6 +65,7 @@ For my leetcode questions
 | [2324-find-triangular-sum-of-an-array](https://github.com/Naveen-Sharma92/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3354-make-array-elements-equal-to-zero](https://github.com/Naveen-Sharma92/Leetcode/tree/master/3354-make-array-elements-equal-to-zero) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Naveen-Sharma92/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3689-maximum-total-subarray-value-i](https://github.com/Naveen-Sharma92/Leetcode/tree/master/3689-maximum-total-subarray-value-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -198,6 +199,7 @@ For my leetcode questions
 | [0797-rabbits-in-forest](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0797-rabbits-in-forest) |
 | [0860-lemonade-change](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0860-lemonade-change) |
 | [1018-largest-perimeter-triangle](https://github.com/Naveen-Sharma92/Leetcode/tree/master/1018-largest-perimeter-triangle) |
+| [3689-maximum-total-subarray-value-i](https://github.com/Naveen-Sharma92/Leetcode/tree/master/3689-maximum-total-subarray-value-i) |
 ## Brainteaser
 |  |
 | ------- |
