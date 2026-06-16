@@ -8,8 +8,7 @@ public:
                     ans.pop_back();
             }
             else if(it=='#'){
-                string a = ans;
-                ans.append(a);
+                ans.append(ans);
             }
             else if(it=='%'){
                 reverse(ans.begin(),ans.end());
