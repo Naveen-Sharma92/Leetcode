@@ -114,6 +114,7 @@ For my leetcode questions
 | [0048-rotate-image](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0066-plus-one) |
+| [0070-climbing-stairs](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0070-climbing-stairs) |
 | [0204-count-primes](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/Looplover11/Leetcode/tree/master/0268-missing-number) |
 | [0797-rabbits-in-forest](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0797-rabbits-in-forest) |
@@ -303,6 +304,7 @@ For my leetcode questions
 | ------- |
 | [0045-jump-game-ii](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0435-non-overlapping-intervals) |
@@ -421,4 +423,8 @@ For my leetcode questions
 | [0787-cheapest-flights-within-k-stops](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Naveen-Sharma92/Leetcode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Naveen-Sharma92/Leetcode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
