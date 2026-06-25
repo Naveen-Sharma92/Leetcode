@@ -1,29 +1,55 @@
 // approch 1 we are calculating water stored above a building
+// class Solution {
+// public:
+//     int trap(vector<int>& height) {
+//         int ans=0;
+
+//         int n= height.size();
+
+//         vector<int>left(n,0);
+
+//         vector<int>right(n,0);
+
+//         left[0]=height[0];
+
+//         right[n-1]=height[n-1];
+
+//         for(int i=1;i<n;i++)
+//             left[i]=max(height[i],left[i-1]);
+//         for(int i=n-2;i>=0;i--)
+//             right[i]=max(height[i],right[i+1]);
+//         for(int i=0;i<n;i++){
+//             if(height[i]<left[i] && height[i]< right[i]){
+//                 int a=(min(left[i],right[i])-height[i]);
+//                 ans+=a;
+//             }
+//         }
+//         return ans;
+//     }
+// };
+
 class Solution {
 public:
     int trap(vector<int>& height) {
-        int ans=0;
-
         int n= height.size();
+        int lmax=0,rmax=0,l=0,r=n-1,total=0;
 
-        vector<int>left(n,0);
-
-        vector<int>right(n,0);
-
-        left[0]=height[0];
-
-        right[n-1]=height[n-1];
-
-        for(int i=1;i<n;i++)
-            left[i]=max(height[i],left[i-1]);
-        for(int i=n-2;i>=0;i--)
-            right[i]=max(height[i],right[i+1]);
-        for(int i=0;i<n;i++){
-            if(height[i]<left[i] && height[i]< right[i]){
-                int a=(min(left[i],right[i])-height[i]);
-                ans+=a;
+        while(l<r){
+            if(height[l]<=height[r]){
+                if(lmax>height[l])
+                    total+=(lmax-height[l]);
+                else
+                    lmax=height[l];
+                l++;
+            }
+            else{
+                if(rmax>height[r])
+                    total+=(rmax-height[r]);
+                else
+                    rmax=height[r];
+                r--;
             }
         }
-        return ans;
+        return total;
     }
 };
