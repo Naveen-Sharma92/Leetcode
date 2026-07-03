@@ -2,8 +2,6 @@ class Solution {
 public:
     int withoutfirst(vector<int>& nums){
         int n = nums.size();
-        if(n==0)
-            return -1;
         if (n == 2) 
             return nums[1];
         
