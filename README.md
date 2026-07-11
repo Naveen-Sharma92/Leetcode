@@ -55,6 +55,7 @@ For my leetcode questions
 | [0907-sum-of-subarray-minimums](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [0930-binary-subarrays-with-sum](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0944-delete-columns-to-make-sorted) |
+| [0982-triples-with-bitwise-and-equal-to-zero](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0982-triples-with-bitwise-and-equal-to-zero) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [0994-rotting-oranges](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/Naveen-Sharma92/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
@@ -112,6 +113,7 @@ For my leetcode questions
 | [0797-rabbits-in-forest](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0797-rabbits-in-forest) |
 | [0904-fruit-into-baskets](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
+| [0982-triples-with-bitwise-and-equal-to-zero](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0982-triples-with-bitwise-and-equal-to-zero) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Naveen-Sharma92/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
@@ -160,6 +162,7 @@ For my leetcode questions
 | ------- |
 | [0136-single-number](https://github.com/Looplover11/Leetcode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Looplover11/Leetcode/tree/master/0268-missing-number) |
+| [0982-triples-with-bitwise-and-equal-to-zero](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0982-triples-with-bitwise-and-equal-to-zero) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/Naveen-Sharma92/Leetcode/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 ## Sorting
 |  |
