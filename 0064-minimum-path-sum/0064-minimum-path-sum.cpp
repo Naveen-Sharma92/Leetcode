@@ -37,27 +37,56 @@
 
 //tabulation
 
+// class Solution {
+// public:
+//     int minPathSum(vector<vector<int>>& grid) {
+//         int m= grid.size();
+//         int n= grid[0].size();
+//         vector<vector<int>>dp(m,vector<int>(n,-1));
+//         dp[0][0]=grid[0][0];
+
+//         for(int i=0;i<m;i++){
+//             for(int j=0;j<n;j++){
+//                 int down=INT_MAX,right=INT_MAX;
+//                 if(i>0)
+//                     down= grid[i][j] + dp[i-1][j];
+//                 if(j>0)
+//                     right=grid[i][j] + dp[i][j-1];
+//                 if(i == 0 && j == 0)
+//                     continue;
+//                 dp[i][j]= min(down,right);
+//             }
+
+//         }
+//         return dp[m-1][n-1];
+//     }
+// };
+
+// state optimisation 
+
 class Solution {
 public:
     int minPathSum(vector<vector<int>>& grid) {
         int m= grid.size();
         int n= grid[0].size();
-        vector<vector<int>>dp(m,vector<int>(n,-1));
-        dp[0][0]=grid[0][0];
+        vector<int>prevrow(n,-1);
 
         for(int i=0;i<m;i++){
+            vector<int>curr(n,-1);
             for(int j=0;j<n;j++){
                 int down=INT_MAX,right=INT_MAX;
                 if(i>0)
-                    down= grid[i][j] + dp[i-1][j];
+                    down= grid[i][j] + prevrow[j];
                 if(j>0)
-                    right=grid[i][j] + dp[i][j-1];
+                    right=grid[i][j] + curr[j-1];
                 if(i == 0 && j == 0)
-                    continue;
-                dp[i][j]= min(down,right);
+                    curr[i]= grid[0][0];
+                else
+                    curr[j]= min(down,right);
             }
+            prevrow=curr;
 
         }
-        return dp[m-1][n-1];
+        return prevrow[n-1];
     }
 };
