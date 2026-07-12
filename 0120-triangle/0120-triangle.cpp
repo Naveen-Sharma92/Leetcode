@@ -44,34 +44,71 @@
 
 // tabulation
 
+// class Solution {
+// public:
+//     int minimumTotal(vector<vector<int>>& triangle) {
+//         int m= triangle.size();
+//         int n= triangle[m-1].size();
+//         vector<vector<int>>dp(m,vector<int>(n,-1));
+//         int ans= INT_MAX;
+//         dp[0][0]= triangle[0][0];
+
+//         for(int i=0;i<m;i++){
+//             n= triangle[i].size();
+            
+//             for(int j=0;j<n;j++){
+//                 if(i==0 && j==0)
+//                     continue;
+//                 int upleft=INT_MAX,up=INT_MAX;
+//                 if(j>0){
+//                     upleft = dp[i-1][j-1]+triangle[i][j];
+//                 }
+//                 if(i>j){
+//                     up = dp[i-1][j]+triangle[i][j];
+//                 }
+//                 dp[i][j]=min(up,upleft);
+//             }
+//         }
+
+//         for(int j=0;j<n;j++)
+//             ans= min(ans,dp[m-1][j]);
+//         return ans;
+//     }
+// };
+
+//space optimisation just need to remember previous row as we are doing row by row in j loop
+
 class Solution {
 public:
     int minimumTotal(vector<vector<int>>& triangle) {
         int m= triangle.size();
         int n= triangle[m-1].size();
-        vector<vector<int>>dp(m,vector<int>(n,-1));
+        vector<int>prev;
         int ans= INT_MAX;
-        dp[0][0]= triangle[0][0];
+        prev.push_back(triangle[0][0]);
 
         for(int i=0;i<m;i++){
             n= triangle[i].size();
-            
+            vector<int>curr(n,-1);
             for(int j=0;j<n;j++){
-                if(i==0 && j==0)
+                if(i==0 && j==0){
+                    curr[0]=triangle[0][0];
                     continue;
+                }
                 int upleft=INT_MAX,up=INT_MAX;
                 if(j>0){
-                    upleft = dp[i-1][j-1]+triangle[i][j];
+                    upleft = prev[j-1]+triangle[i][j];
                 }
                 if(i>j){
-                    up = dp[i-1][j]+triangle[i][j];
+                    up = prev[j]+triangle[i][j];
                 }
-                dp[i][j]=min(up,upleft);
+                curr[j]=min(up,upleft);
             }
+            prev= curr;
         }
 
         for(int j=0;j<n;j++)
-            ans= min(ans,dp[m-1][j]);
+            ans= min(ans,prev[j]);
         return ans;
     }
 };
