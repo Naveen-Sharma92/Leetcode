@@ -7,6 +7,8 @@ public:
             return INT_MAX;
         if(m==0)
             return triangle[0][0];
+        if (dp[m][n] != -1)
+            return dp[m][n];
         int up= INT_MAX,upleft=INT_MAX;
 
         if(n>0){
