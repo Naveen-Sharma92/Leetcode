@@ -18,15 +18,25 @@
 //         return max_element;
 //     }
 // };
+// class Solution {
+// public:
+//     int majorityElement(vector<int>& nums) {
+//         int n=nums.size();
+//         sort(nums.begin(),nums.end());
+//         if(nums[n/2]==nums[0])
+//             return nums[0];
+//         if(nums[n/2]==nums[n-1])
+//             return nums[n-1];
+//         return nums[n/2];
+//     }
+// };
+
+//revise
 class Solution {
 public:
     int majorityElement(vector<int>& nums) {
-        int n=nums.size();
-        sort(nums.begin(),nums.end());
-        if(nums[n/2]==nums[0])
-            return nums[0];
-        if(nums[n/2]==nums[n-1])
-            return nums[n-1];
-        return nums[n/2];
+       int n= nums.size();
+       sort(nums.begin(),nums.end());
+       return nums[n/2];
     }
 };
