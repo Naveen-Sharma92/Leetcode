@@ -38,6 +38,7 @@ For my leetcode questions
 | [0204-count-primes](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0204-count-primes) |
 | [0213-house-robber-ii](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0213-house-robber-ii) |
 | [0217-contains-duplicate](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Looplover11/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Looplover11/Leetcode/tree/master/0283-move-zeroes) |
 | [0435-non-overlapping-intervals](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0435-non-overlapping-intervals) |
@@ -107,6 +108,7 @@ For my leetcode questions
 | [0160-intersection-of-two-linked-lists](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Looplover11/Leetcode/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0290-word-pattern) |
@@ -175,6 +177,7 @@ For my leetcode questions
 | [0075-sort-colors](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Looplover11/Leetcode/tree/master/0268-missing-number) |
 | [0435-non-overlapping-intervals](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0435-non-overlapping-intervals) |
@@ -284,6 +287,7 @@ For my leetcode questions
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0229-majority-element-ii) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 ## Database
 |  |
