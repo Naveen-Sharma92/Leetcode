@@ -199,6 +199,7 @@ For my leetcode questions
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0022-generate-parentheses) |
 | [0076-minimum-window-substring](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0127-word-ladder) |
 | [0242-valid-anagram](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0242-valid-anagram) |
@@ -337,6 +338,7 @@ For my leetcode questions
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0055-jump-game) |
@@ -489,4 +491,8 @@ For my leetcode questions
 | [0496-next-greater-element-i](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0907-sum-of-subarray-minimums](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0907-sum-of-subarray-minimums) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
