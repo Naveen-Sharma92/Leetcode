@@ -13,6 +13,7 @@ For my leetcode questions
 | [0035-search-insert-position](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0039-combination-sum) |
+| [0041-first-missing-positive](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0048-rotate-image) |
@@ -102,6 +103,7 @@ For my leetcode questions
 | [0001-two-sum](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0036-valid-sudoku](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0036-valid-sudoku) |
+| [0041-first-missing-positive](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0041-first-missing-positive) |
 | [0076-minimum-window-substring](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0127-word-ladder) |
 | [0141-linked-list-cycle](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0141-linked-list-cycle) |
