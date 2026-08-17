@@ -147,6 +147,7 @@ For my leetcode questions
 | [1248-count-number-of-nice-subarrays](https://github.com/Naveen-Sharma92/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Naveen-Sharma92/Leetcode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1642-water-bottles](https://github.com/Naveen-Sharma92/Leetcode/tree/master/1642-water-bottles) |
+| [1903-largest-odd-number-in-string](https://github.com/Naveen-Sharma92/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/Naveen-Sharma92/Leetcode/tree/master/1922-count-good-numbers) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Naveen-Sharma92/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3336-water-bottles-ii](https://github.com/Naveen-Sharma92/Leetcode/tree/master/3336-water-bottles-ii) |
@@ -218,6 +219,7 @@ For my leetcode questions
 | [1021-remove-outermost-parentheses](https://github.com/Naveen-Sharma92/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Naveen-Sharma92/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1797-goal-parser-interpretation](https://github.com/Naveen-Sharma92/Leetcode/tree/master/1797-goal-parser-interpretation) |
+| [1903-largest-odd-number-in-string](https://github.com/Naveen-Sharma92/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [3612-process-string-with-special-operations-i](https://github.com/Naveen-Sharma92/Leetcode/tree/master/3612-process-string-with-special-operations-i) |
 ## Greedy
 |  |
@@ -232,6 +234,7 @@ For my leetcode questions
 | [0797-rabbits-in-forest](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0797-rabbits-in-forest) |
 | [0860-lemonade-change](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0860-lemonade-change) |
 | [1018-largest-perimeter-triangle](https://github.com/Naveen-Sharma92/Leetcode/tree/master/1018-largest-perimeter-triangle) |
+| [1903-largest-odd-number-in-string](https://github.com/Naveen-Sharma92/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Naveen-Sharma92/Leetcode/tree/master/3689-maximum-total-subarray-value-i) |
 ## Brainteaser
 |  |
