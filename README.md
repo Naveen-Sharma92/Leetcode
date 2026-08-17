@@ -215,6 +215,7 @@ For my leetcode questions
 | [0424-longest-repeating-character-replacement](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0551-student-attendance-record-i](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0551-student-attendance-record-i) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0944-delete-columns-to-make-sorted) |
+| [1021-remove-outermost-parentheses](https://github.com/Naveen-Sharma92/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Naveen-Sharma92/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1797-goal-parser-interpretation](https://github.com/Naveen-Sharma92/Leetcode/tree/master/1797-goal-parser-interpretation) |
 | [3612-process-string-with-special-operations-i](https://github.com/Naveen-Sharma92/Leetcode/tree/master/3612-process-string-with-special-operations-i) |
@@ -290,6 +291,7 @@ For my leetcode questions
 | [0503-next-greater-element-ii](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0907-sum-of-subarray-minimums) |
+| [1021-remove-outermost-parentheses](https://github.com/Naveen-Sharma92/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -515,4 +517,8 @@ For my leetcode questions
 |  |
 | ------- |
 | [1114-print-in-order](https://github.com/Naveen-Sharma92/Leetcode/tree/master/1114-print-in-order) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/Naveen-Sharma92/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
