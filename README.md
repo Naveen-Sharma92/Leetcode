@@ -81,6 +81,7 @@ For my leetcode questions
 | [1539-kth-missing-positive-number](https://github.com/Naveen-Sharma92/Leetcode/tree/master/1539-kth-missing-positive-number) |
 | [1631-path-with-minimum-effort](https://github.com/Naveen-Sharma92/Leetcode/tree/master/1631-path-with-minimum-effort) |
 | [1765-map-of-highest-peak](https://github.com/Naveen-Sharma92/Leetcode/tree/master/1765-map-of-highest-peak) |
+| [1937-maximum-number-of-points-with-cost](https://github.com/Naveen-Sharma92/Leetcode/tree/master/1937-maximum-number-of-points-with-cost) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Naveen-Sharma92/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Naveen-Sharma92/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3354-make-array-elements-equal-to-zero](https://github.com/Naveen-Sharma92/Leetcode/tree/master/3354-make-array-elements-equal-to-zero) |
@@ -282,6 +283,7 @@ For my leetcode questions
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Naveen-Sharma92/Leetcode/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1631-path-with-minimum-effort](https://github.com/Naveen-Sharma92/Leetcode/tree/master/1631-path-with-minimum-effort) |
 | [1765-map-of-highest-peak](https://github.com/Naveen-Sharma92/Leetcode/tree/master/1765-map-of-highest-peak) |
+| [1937-maximum-number-of-points-with-cost](https://github.com/Naveen-Sharma92/Leetcode/tree/master/1937-maximum-number-of-points-with-cost) |
 ## Stack
 |  |
 | ------- |
@@ -383,6 +385,7 @@ For my leetcode questions
 | [0907-sum-of-subarray-minimums](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Naveen-Sharma92/Leetcode/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Naveen-Sharma92/Leetcode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1937-maximum-number-of-points-with-cost](https://github.com/Naveen-Sharma92/Leetcode/tree/master/1937-maximum-number-of-points-with-cost) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Naveen-Sharma92/Leetcode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Number Theory
 |  |
