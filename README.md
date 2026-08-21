@@ -84,6 +84,7 @@ For my leetcode questions
 | [1631-path-with-minimum-effort](https://github.com/Naveen-Sharma92/Leetcode/tree/master/1631-path-with-minimum-effort) |
 | [1765-map-of-highest-peak](https://github.com/Naveen-Sharma92/Leetcode/tree/master/1765-map-of-highest-peak) |
 | [1937-maximum-number-of-points-with-cost](https://github.com/Naveen-Sharma92/Leetcode/tree/master/1937-maximum-number-of-points-with-cost) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Naveen-Sharma92/Leetcode/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Naveen-Sharma92/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Naveen-Sharma92/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3354-make-array-elements-equal-to-zero](https://github.com/Naveen-Sharma92/Leetcode/tree/master/3354-make-array-elements-equal-to-zero) |
@@ -104,6 +105,7 @@ For my leetcode questions
 | [0283-move-zeroes](https://github.com/Looplover11/Leetcode/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0455-assign-cookies) |
 | [0876-middle-of-the-linked-list](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0876-middle-of-the-linked-list) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Naveen-Sharma92/Leetcode/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Naveen-Sharma92/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Naveen-Sharma92/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Hash Table
@@ -175,12 +177,14 @@ For my leetcode questions
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Naveen-Sharma92/Leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/Naveen-Sharma92/Leetcode/tree/master/1539-kth-missing-positive-number) |
 | [1631-path-with-minimum-effort](https://github.com/Naveen-Sharma92/Leetcode/tree/master/1631-path-with-minimum-effort) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Naveen-Sharma92/Leetcode/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Looplover11/Leetcode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Looplover11/Leetcode/tree/master/0268-missing-number) |
 | [0982-triples-with-bitwise-and-equal-to-zero](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0982-triples-with-bitwise-and-equal-to-zero) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Naveen-Sharma92/Leetcode/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/Naveen-Sharma92/Leetcode/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 ## Sorting
 |  |
@@ -198,6 +202,7 @@ For my leetcode questions
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1018-largest-perimeter-triangle](https://github.com/Naveen-Sharma92/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Naveen-Sharma92/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Naveen-Sharma92/Leetcode/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -392,6 +397,7 @@ For my leetcode questions
 | [1463-cherry-pickup-ii](https://github.com/Naveen-Sharma92/Leetcode/tree/master/1463-cherry-pickup-ii) |
 | [1937-maximum-number-of-points-with-cost](https://github.com/Naveen-Sharma92/Leetcode/tree/master/1937-maximum-number-of-points-with-cost) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Naveen-Sharma92/Leetcode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Naveen-Sharma92/Leetcode/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Number Theory
 |  |
 | ------- |
@@ -546,4 +552,16 @@ For my leetcode questions
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0416-partition-equal-subset-sum) |
+## Meet in the Middle
+|  |
+| ------- |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Naveen-Sharma92/Leetcode/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+## Ordered Set
+|  |
+| ------- |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Naveen-Sharma92/Leetcode/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+## Bitmask
+|  |
+| ------- |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Naveen-Sharma92/Leetcode/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 <!---LeetCode Topics End-->
