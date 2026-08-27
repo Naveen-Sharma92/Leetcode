@@ -25,6 +25,7 @@ For my leetcode questions
 | [0064-minimum-path-sum](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0075-sort-colors) |
+| [0079-word-search](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0118-pascals-triangle](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0120-triangle) |
@@ -220,6 +221,7 @@ For my leetcode questions
 | [0020-valid-parentheses](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0022-generate-parentheses) |
 | [0076-minimum-window-substring](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0079-word-search) |
 | [0127-word-ladder](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0127-word-ladder) |
 | [0242-valid-anagram](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0290-word-pattern) |
@@ -279,6 +281,7 @@ For my leetcode questions
 | [0054-spiral-matrix](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0064-minimum-path-sum) |
+| [0079-word-search](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0200-number-of-islands) |
 | [0221-maximal-square](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0221-maximal-square) |
@@ -417,6 +420,7 @@ For my leetcode questions
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -536,6 +540,7 @@ For my leetcode questions
 | ------- |
 | [0022-generate-parentheses](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0039-combination-sum) |
+| [0079-word-search](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0079-word-search) |
 ## Concurrency
 |  |
 | ------- |
