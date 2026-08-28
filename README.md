@@ -548,6 +548,7 @@ For my leetcode questions
 ## Bracket Sequences
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0022-generate-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/Naveen-Sharma92/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 ## Knapsack Problem
 |  |
