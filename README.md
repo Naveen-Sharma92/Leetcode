@@ -133,6 +133,7 @@ For my leetcode questions
 | [0268-missing-number](https://github.com/Looplover11/Leetcode/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0355-design-twitter](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0355-design-twitter) |
 | [0424-longest-repeating-character-replacement](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Looplover11/Leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -367,6 +368,7 @@ For my leetcode questions
 | [0206-reverse-linked-list](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
+| [0355-design-twitter](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0355-design-twitter) |
 | [0876-middle-of-the-linked-list](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Naveen-Sharma92/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Recursion
@@ -527,6 +529,7 @@ For my leetcode questions
 | [0023-merge-k-sorted-lists](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0295-find-median-from-data-stream](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0355-design-twitter](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0355-design-twitter) |
 | [0621-task-scheduler](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0621-task-scheduler) |
 | [0743-network-delay-time](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -549,6 +552,7 @@ For my leetcode questions
 | [0225-implement-stack-using-queues](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0295-find-median-from-data-stream](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0295-find-median-from-data-stream) |
+| [0355-design-twitter](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0355-design-twitter) |
 ## Queue
 |  |
 | ------- |
