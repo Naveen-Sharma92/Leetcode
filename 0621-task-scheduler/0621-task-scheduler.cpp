@@ -19,15 +19,21 @@ public:
         int anstime=0;
         while((!pq.empty()) || (!q.empty())){
             anstime++;
-            if(!q.empty()){
-                int f=q.front().first.first;
-                char ch=q.front().first.second;
-                int t=q.front().second;
-                if(t<=anstime){ // check cooldown is over <= not == as at same time more can be cooldown but can call one only
-                    pq.push({f,ch});
+            // below is right and pass but a bug as i need to add all that is available to pq otherswise the most frequent one does not add to pq
+            // if(!q.empty()){
+            //     int f=q.front().first.first;
+            //     char ch=q.front().first.second;
+            //     int t=q.front().second;
+            //     if(t<=anstime){ // check cooldown is over <= not == as at same time more can be cooldown but can call one only
+            //         pq.push({f,ch});
+            //         q.pop();
+            //     }
+            // }
+            while(!q.empty() && q.front().second <= anstime){// check cooldown is over <= not == as at same time more can be cooldown but can call one only
+                pq.push(q.front().first);
                     q.pop();
-                }
             }
+
             if(!pq.empty()){
                 int f= pq.top().first;
                 int ch=pq.top().second;
