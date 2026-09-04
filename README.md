@@ -58,6 +58,7 @@ For my leetcode questions
 | [0540-single-element-in-a-sorted-array](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/Looplover11/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0621-task-scheduler](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0621-task-scheduler) |
 | [0704-binary-search](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0735-asteroid-collision) |
@@ -133,6 +134,7 @@ For my leetcode questions
 | [0424-longest-repeating-character-replacement](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Looplover11/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0621-task-scheduler](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0621-task-scheduler) |
 | [0797-rabbits-in-forest](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0797-rabbits-in-forest) |
 | [0904-fruit-into-baskets](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
@@ -204,6 +206,7 @@ For my leetcode questions
 | [0347-top-k-frequent-elements](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0455-assign-cookies) |
+| [0621-task-scheduler](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0621-task-scheduler) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1018-largest-perimeter-triangle](https://github.com/Naveen-Sharma92/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Naveen-Sharma92/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -247,6 +250,7 @@ For my leetcode questions
 | [0135-candy](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0135-candy) |
 | [0435-non-overlapping-intervals](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0455-assign-cookies) |
+| [0621-task-scheduler](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0621-task-scheduler) |
 | [0797-rabbits-in-forest](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0797-rabbits-in-forest) |
 | [0860-lemonade-change](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0860-lemonade-change) |
 | [1018-largest-perimeter-triangle](https://github.com/Naveen-Sharma92/Leetcode/tree/master/1018-largest-perimeter-triangle) |
@@ -328,6 +332,7 @@ For my leetcode questions
 | [0169-majority-element](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0621-task-scheduler) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 ## Database
 |  |
@@ -515,6 +520,7 @@ For my leetcode questions
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0347-top-k-frequent-elements](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0621-task-scheduler) |
 | [0743-network-delay-time](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1631-path-with-minimum-effort](https://github.com/Naveen-Sharma92/Leetcode/tree/master/1631-path-with-minimum-effort) |
