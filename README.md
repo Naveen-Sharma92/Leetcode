@@ -237,6 +237,7 @@ For my leetcode questions
 | [0079-word-search](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0079-word-search) |
 | [0127-word-ladder](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0127-word-ladder) |
 | [0242-valid-anagram](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0242-valid-anagram) |
+| [0257-binary-tree-paths](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0290-word-pattern](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0290-word-pattern) |
 | [0424-longest-repeating-character-replacement](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0551-student-attendance-record-i](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0551-student-attendance-record-i) |
@@ -438,6 +439,7 @@ For my leetcode questions
 | [0124-binary-tree-maximum-path-sum](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0257-binary-tree-paths](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -454,6 +456,7 @@ For my leetcode questions
 | [0145-binary-tree-postorder-traversal](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0200-number-of-islands](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0207-course-schedule) |
+| [0257-binary-tree-paths](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0733-flood-fill) |
@@ -475,6 +478,7 @@ For my leetcode questions
 | [0124-binary-tree-maximum-path-sum](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0257-binary-tree-paths](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -579,6 +583,7 @@ For my leetcode questions
 | [0022-generate-parentheses](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0039-combination-sum) |
 | [0079-word-search](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0079-word-search) |
+| [0257-binary-tree-paths](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0257-binary-tree-paths) |
 ## Concurrency
 |  |
 | ------- |
