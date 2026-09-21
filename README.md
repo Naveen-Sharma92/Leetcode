@@ -441,6 +441,7 @@ For my leetcode questions
 | [0145-binary-tree-postorder-traversal](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0257-binary-tree-paths](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [0662-maximum-width-of-binary-tree](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Depth-First Search
@@ -459,6 +460,7 @@ For my leetcode questions
 | [0257-binary-tree-paths](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0547-number-of-provinces) |
+| [0662-maximum-width-of-binary-tree](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0785-is-graph-bipartite) |
@@ -480,6 +482,7 @@ For my leetcode questions
 | [0145-binary-tree-postorder-traversal](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0257-binary-tree-paths](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [0662-maximum-width-of-binary-tree](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Breadth-First Search
@@ -496,6 +499,7 @@ For my leetcode questions
 | [0322-coin-change](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0322-coin-change) |
 | [0542-01-matrix](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0547-number-of-provinces) |
+| [0662-maximum-width-of-binary-tree](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0785-is-graph-bipartite) |
