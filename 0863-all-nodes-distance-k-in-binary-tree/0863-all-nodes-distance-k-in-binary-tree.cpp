@@ -43,7 +43,7 @@ public:
             q.pop();
             if(dis==k)
                 ans.push_back(node->val);
-            else if(dis<k){
+            else{
                 if(node->left!=NULL && vis.find(node->left)==vis.end()){ //left
                     vis[node->left]=true;
                     q.push({node->left,dis+1});
