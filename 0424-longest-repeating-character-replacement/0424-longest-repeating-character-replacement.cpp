@@ -49,13 +49,15 @@ public:
         unordered_map<char,int>mpp;
         while(r<s.size()){
             mpp[s[r]]++;
-            if((r-l+1)-max_freq(mpp) > k){
+            int cur_len =r-l+1;
+            if(cur_len-max_freq(mpp) > k){
                 mpp[s[l]]--;
                 if(mpp[s[l]]==0)
                     mpp.erase(s[l]);
                 l++;
             }
-            if((r-l+1)-max_freq(mpp) <= k){
+            cur_len =r-l+1; //as if l++ happen then we need to check;
+            if(cur_len-max_freq(mpp) <= k){
                 max_len=max(max_len,r-l+1);
             }
             r++;
