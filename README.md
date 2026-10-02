@@ -452,6 +452,7 @@ For my leetcode questions
 | [0124-binary-tree-maximum-path-sum](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0257-binary-tree-paths](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0450-delete-node-in-a-bst) |
@@ -474,6 +475,7 @@ For my leetcode questions
 | [0145-binary-tree-postorder-traversal](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0200-number-of-islands](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0207-course-schedule) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0257-binary-tree-paths](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0543-diameter-of-binary-tree) |
@@ -501,6 +503,7 @@ For my leetcode questions
 | [0124-binary-tree-maximum-path-sum](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0257-binary-tree-paths](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0450-delete-node-in-a-bst) |
@@ -679,6 +682,7 @@ For my leetcode questions
 ## Binary Search Tree
 |  |
 | ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
