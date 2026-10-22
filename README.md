@@ -130,6 +130,7 @@ For my leetcode questions
 | [0127-word-ladder](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0127-word-ladder) |
 | [0141-linked-list-cycle](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0217-contains-duplicate) |
@@ -378,6 +379,7 @@ For my leetcode questions
 | [0025-reverse-nodes-in-k-group](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0141-linked-list-cycle](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0234-palindrome-linked-list) |
@@ -600,6 +602,7 @@ For my leetcode questions
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0232-implement-queue-using-stacks) |
@@ -704,4 +707,8 @@ For my leetcode questions
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Naveen-Sharma92/Leetcode/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
