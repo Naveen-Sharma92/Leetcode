@@ -366,6 +366,7 @@ For my leetcode questions
 | [1148-article-views-i](https://github.com/Naveen-Sharma92/Leetcode/tree/master/1148-article-views-i) |
 | [1153-product-sales-analysis-i](https://github.com/Naveen-Sharma92/Leetcode/tree/master/1153-product-sales-analysis-i) |
 | [1258-article-views-i](https://github.com/Naveen-Sharma92/Leetcode/tree/master/1258-article-views-i) |
+| [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Naveen-Sharma92/Leetcode/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/Naveen-Sharma92/Leetcode/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Naveen-Sharma92/Leetcode/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1661-average-time-of-process-per-machine](https://github.com/Naveen-Sharma92/Leetcode/tree/master/1661-average-time-of-process-per-machine) |
