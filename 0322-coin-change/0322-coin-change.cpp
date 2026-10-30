@@ -33,7 +33,7 @@ public:
         dp[0]=0;
         for(int i=0;i<=amount;i++){
             for(auto it:coins){
-                //if(dp[i]!=INT_MAX && i+it<=amount){ -> this gives runtime error
+                //if(dp[i]!=INT_MAX && i+it<=amount){ -> this gives runtime error as i+it sometimes gives greater than int capacity
                 if(it <= amount-i && dp[i] != INT_MAX){
                     dp[i+it]=min(dp[i+it],dp[i]+1);
                 }
