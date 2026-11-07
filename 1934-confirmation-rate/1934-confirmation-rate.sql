@@ -17,7 +17,7 @@ LEFT JOIN total t      ON s.user_id = t.user_id
 LEFT JOIN confirmed cf ON s.user_id = cf.user_id;
 
 
-# best code
+# best code basic join
 -- SELECT s.user_id,
 --        ROUND(AVG(CASE WHEN c.action = 'confirmed' THEN 1 ELSE 0 END), 2)
 --            AS confirmation_rate
