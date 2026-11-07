@@ -368,6 +368,7 @@ For my leetcode questions
 | [1068-product-sales-analysis-i](https://github.com/Naveen-Sharma92/Leetcode/tree/master/1068-product-sales-analysis-i) |
 | [1148-article-views-i](https://github.com/Naveen-Sharma92/Leetcode/tree/master/1148-article-views-i) |
 | [1153-product-sales-analysis-i](https://github.com/Naveen-Sharma92/Leetcode/tree/master/1153-product-sales-analysis-i) |
+| [1251-average-selling-price](https://github.com/Naveen-Sharma92/Leetcode/tree/master/1251-average-selling-price) |
 | [1258-article-views-i](https://github.com/Naveen-Sharma92/Leetcode/tree/master/1258-article-views-i) |
 | [1280-students-and-examinations](https://github.com/Naveen-Sharma92/Leetcode/tree/master/1280-students-and-examinations) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Naveen-Sharma92/Leetcode/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
