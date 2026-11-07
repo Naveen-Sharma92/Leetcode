@@ -376,6 +376,7 @@ For my leetcode questions
 | [1683-invalid-tweets](https://github.com/Naveen-Sharma92/Leetcode/tree/master/1683-invalid-tweets) |
 | [1827-invalid-tweets](https://github.com/Naveen-Sharma92/Leetcode/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/Naveen-Sharma92/Leetcode/tree/master/1908-recyclable-and-low-fat-products) |
+| [1934-confirmation-rate](https://github.com/Naveen-Sharma92/Leetcode/tree/master/1934-confirmation-rate) |
 ## Linked List
 |  |
 | ------- |
