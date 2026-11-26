@@ -394,6 +394,7 @@ For my leetcode questions
 | [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/Naveen-Sharma92/Leetcode/tree/master/1731-the-number-of-employees-which-report-to-each-employee) |
 | [1789-primary-department-for-each-employee](https://github.com/Naveen-Sharma92/Leetcode/tree/master/1789-primary-department-for-each-employee) |
 | [1827-invalid-tweets](https://github.com/Naveen-Sharma92/Leetcode/tree/master/1827-invalid-tweets) |
+| [1907-count-salary-categories](https://github.com/Naveen-Sharma92/Leetcode/tree/master/1907-count-salary-categories) |
 | [1908-recyclable-and-low-fat-products](https://github.com/Naveen-Sharma92/Leetcode/tree/master/1908-recyclable-and-low-fat-products) |
 | [1934-confirmation-rate](https://github.com/Naveen-Sharma92/Leetcode/tree/master/1934-confirmation-rate) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Naveen-Sharma92/Leetcode/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
